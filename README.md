@@ -1,4 +1,5 @@
 ## Hi there 👋
+The Akabayov Lab integrates experimental biochemistry, structural biology, and artificial intelligence to study molecular recognition in DNA replication and RNA-targeting systems. Our work focuses on developing data-driven approaches for antibacterial and RNA-targeted drug discovery, including machine learning models, cheminformatics pipelines, molecular docking workflows, and interpretable AI tools. By combining biochemical assays with computational screening and molecular descriptors, the lab aims to identify new inhibitors, understand structure-activity relationships, understand specific DNA-protein recognition, and accelerate the design of biologically active small molecules.
 
 <!--
 **csbarak/csbarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
