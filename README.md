@@ -1,7 +1,11 @@
 ## Laboratory of Protein and Nucleic Acid Chemistry 
 The Akabayov Lab integrates experimental biochemistry, structural biology, and artificial intelligence to study molecular recognition in DNA replication and RNA-targeting systems. Our work focuses on developing data-driven approaches for antibacterial and RNA-targeted drug discovery, including machine learning models, cheminformatics pipelines, molecular docking workflows, and interpretable AI tools. By combining biochemical assays with computational screening and molecular descriptors, the lab aims to identify new inhibitors, understand structure-activity relationships, understand specific DNA-protein recognition, and accelerate the design of biologically active small molecules.
-  - [contact me](akabayov@bgu.ac.il)
-  - [Lab Website](https://akabayov-lab.org/)
+  - [Send an E. mail to Prof. Barak Akabayov](akabayov@bgu.ac.il)
+  - [visit Lab Website](https://akabayov-lab.org/)
+  - [Akabayov BIO](https://akabayov-lab.org/akabayov-bio/)
+  - [Publications](https://akabayov-lab.org/publications/)
+  - [Patents](https://akabayov-lab.org/patents/)
+  - [Popular Media](https://akabayov-lab.org/popular-media/)
 
 
 <!--
